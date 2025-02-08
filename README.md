@@ -1,3 +1,7 @@
+# 🎵 Playlist Generator 🎵
+
+---
+
 ### **Task Description**  
 
 Playlist recommendation is a task in recommender systems that aims to suggest songs to complete a
